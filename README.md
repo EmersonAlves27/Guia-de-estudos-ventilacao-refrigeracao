@@ -6,4 +6,9 @@ As fontes utilizadas para alimentar a IA pelo NotebookLM, foram fontes de artigo
 
 Para a validação do conteúdo, utilizei perguntas como "Me explique o funcionamento do ciclo de refrigeração e quais os tipos de sistemas de refrigeração nós podemos adotar?" "Quais as cargas térmicas necessárias a serem calculadas para um bom estudo e bom dimensionamento de um sistema de refrigeração?" . Pois desta forma seria possível garantir uma boa informação a respeito do que se deve ter de conhecimento básico de sistemas de refrigeração e o que deve ser levado em consideração para o bom dimensionamento de um.
 
-O acesso ao conteúdo pelo NotebookLM pode ser feito pelo link: https://notebook.google.com/notebook/71de1adf-44bf-4bd2-9fcd-dcd23920b6c8
+Algumas das fontes abertas que foram utilizadas dentro do guia são: 
+https://artemp.com.br/2022/01/27/o-que-sao-as-expansoes-diretas-e-indiretas/
+https://tecnolatina.com.br/blog-sistema-de-refrigeracao-industrial/
+https://youtu.be/lahUzpPT3GU?si=GZDYgHwLiaC2Z59q
+
+O acesso ao guia de estudos completo pelo NotebookLM pode ser feito pelo link: https://notebook.google.com/notebook/71de1adf-44bf-4bd2-9fcd-dcd23920b6c8
